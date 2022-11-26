@@ -37,7 +37,6 @@ Enter your D-Wave token in the TrafficFlowOptimization.py file and then run main
 
 ```bash
 python main.py
-
+```
 ## 🔗 References
 [Neukart, F.; Compostella, G.; Seidel, C.; Von Dollen, D.; Yarkoni, S.; Parney, B., Traffic flow optimization using a quantum annealer. Frontiers in ICT 2017, 4, 29.](https://www.frontiersin.org/articles/10.3389/fict.2017.00029/full)
-```
